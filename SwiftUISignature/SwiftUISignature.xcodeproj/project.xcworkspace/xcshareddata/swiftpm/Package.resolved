@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftSignatureView",
+        "repositoryURL": "https://github.com/alankarmisra/SwiftSignatureView.git",
+        "state": {
+          "branch": "master",
+          "revision": "93bb41dcbbcf6431ab0ad414c1c0f18c6adf595e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
